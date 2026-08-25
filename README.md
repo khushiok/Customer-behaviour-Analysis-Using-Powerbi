@@ -83,6 +83,10 @@ The cleaned dataset was analyzed using **SQL Server and T-SQL** to answer busine
 
 An interactive **Power BI dashboard** was developed to present the analysis visually and allow users to explore customer behavior through different filters and KPIs.
 
+<p align="center">
+  <img src="images/customer_behaviour_dashboard.png" alt="Customer Behavior Dashboard" width="900">
+</p>
+
 ## 📊 Dashboard
 
 The dashboard provides an overview of:
@@ -132,13 +136,12 @@ Based on the analysis:
 
 ```text
 Customer-behaviour-Analysis-Using-PowerBI/
-│
+├──images
+   ├──customer_behaviour_dashboard.png
 ├── customer_shopping_behavior.csv
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behaviour_sqlserver_queries.sql
 ├── customer_behaviour_dashboard_2026.pbix
-├── Business Problem Document.pdf
-├── Customer Shopping Behavior Analysis.pdf
 ├── LICENSE
 └── README.md
 ```
